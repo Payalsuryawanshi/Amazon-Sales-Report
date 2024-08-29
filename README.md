@@ -83,10 +83,39 @@ Here’s a detailed breakdown of the steps involved in data cleaning using Power
 These steps ensure that the data is well-prepared for analysis, making the insights you derive more accurate and actionable.
 
 # Snapshot of Dashboard 
-![Dashboard_upload]()
+![Dashboard_upload](https://github.com/Payalsuryawanshi/Amazon-Sales-Report/blob/main/Screenshot%20(399).png)
 
-![Dashboard_upload]()
 
-![Dashboard_upload]()
+![Dashboard_upload](https://github.com/Payalsuryawanshi/Amazon-Sales-Report/blob/main/Screenshot%20(400).png)
+
+
+![Dashboard_upload](https://github.com/Payalsuryawanshi/Amazon-Sales-Report/blob/main/Screenshot%20(401).png)
+
+
+
+### **Key Insights from Amazon Sales Analysis**
+
+1. **Sales Patterns:**
+   - **Peak Order Days:** Orders are highest on Tuesdays and Saturdays, indicating peak shopping activity on these days.
+   - **Seasonal Trend:** Maximum orders occur in April, May, and June, highlighting a strong sales trend during the summer season.
+
+2. **Product Performance:**
+   - **Top Revenue Driver:** T-shirts contribute significantly to overall sales, driving the highest revenue.
+   - **Popular Sizes:** Medium and Large sizes dominate sales, reflecting customer preferences.
+   - **Top-Selling Category:** T-shirts are the most popular product, with approximately 42,000 units sold.
+
+3. **Fulfillment Analysis:**
+   - **Preferred Fulfillment Method:** Amazon's fulfillment service is the most commonly used, accounting for nearly 69% of all orders.
+   - **Fulfillment Efficiency:** Orders fulfilled by Amazon are associated with a higher volume of product shipments.
+
+4. **Customer Segmentation:**
+   - **Loyal Customers:** Customers with low recency, high frequency, and large size purchases are the most loyal and valuable, frequently buying and spending significantly.
+   - **Infrequent Buyers:** Customers with low recency, low frequency, and smaller purchases tend to buy less often and spend less.
+   - **Dormant Customers:** Customers with high recency, low frequency, and smaller purchases haven't bought in a while and contribute less to sales.
+
+5. **Geographical Insights:**
+   - **Top Cities:** Bengaluru and Hyderabad have the highest customer concentration, contributing significantly to sales.
+   - **Regional Sales:** Southern regions like Maharashtra, Karnataka, Telangana, and Tamil Nadu dominate total sales.
+   - **Growth Opportunities:** The central region shows minimal contribution, while eastern regions present untapped potential for growth and expansion.
 
 
